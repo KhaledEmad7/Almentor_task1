@@ -13,7 +13,7 @@ Then it will return a JSON response in specific and more clean format .
 
 - ## Running the app
    First you need to start the app server by running:\
-   `python3 app.js`\
+   `python3 app.py`\
    Or you can simply use a python IDE and run the **app.py** file from it\
    <br>
    The app will run automaticaly on:\
