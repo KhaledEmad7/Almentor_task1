@@ -1,7 +1,7 @@
 
 # About the app
 
-This app start a python server using **Flask** Then it sets a link to make **POST request** on it.\
+This app starts a python server using **Flask** Then it sets a link to make **POST request** on it.\
 The post request should have the [input.csv](/input.csv) file in it.\
 Then it will return a JSON response in specific and more clean format .
 
@@ -14,7 +14,7 @@ Then it will return a JSON response in specific and more clean format .
 - ## Running the app
    First you need to start the app server by running:\
    `python3 app.js`\
-   Or you can simply use a python IDE and run the **app.js** file from it\
+   Or you can simply use a python IDE and run the **app.py** file from it\
    <br>
    The app will run automaticaly on:\
    `http://192.168.1.13:5000`\
