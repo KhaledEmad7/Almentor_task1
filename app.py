@@ -58,7 +58,7 @@ def handle_post():
     arr = decoded.splitlines()
     
     ret = []
-    for i in range(1,2):
+    for i in range(1,len(arr)):
 
         #an array of the current row
         cur = arr[i].split(',')
